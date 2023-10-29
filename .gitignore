@@ -6,8 +6,6 @@
 ## IDE support
 *.buildpath
 *.project
-/.settings
-/.idea
 
 ## mkdocs output
 /site
