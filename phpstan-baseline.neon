@@ -2,7 +2,7 @@ parameters:
 	ignoreErrors:
 		-
 			message: "#^Cannot call method getTokenSubType\\(\\) on PhpOffice\\\\PhpSpreadsheet\\\\Calculation\\\\FormulaToken\\|null\\.$#"
-			count: 4
+			count: 1
 			path: src/PhpSpreadsheet/Calculation/FormulaParser.php
 
 		-
